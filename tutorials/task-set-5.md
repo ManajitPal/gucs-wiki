@@ -20,7 +20,7 @@
 |14.|Javascript Sets and Weaksets|@Gurpal|:hourglass:|
 |15.|Javascript Generators|||
 |16.|Transpiling|||
-|17.|Comparison of Popular Javascript Front End Frameworks|||
+|17.|Comparison of Popular Javascript Front End Frameworks|@ManajitPal|:hourglass:|
 |18.|VDOM vs lit-html|||
 |19.|Auditing Websites using Audits 2.0 and Lighthouse|||
 |20.|Libraries vs Frameworks|||
